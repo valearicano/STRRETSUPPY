@@ -1,0 +1,6 @@
+{
+  "name": "STREETSUPPLY",
+  "description": "Tienda de zapatillas futurista con visualización 3D interactiva, efectos de fuego dinámicos y sonido cyberpunk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
